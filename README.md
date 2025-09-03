@@ -19,16 +19,14 @@ I enjoy taking an idea → shaping it into a product → and making it **impactf
 
 ---
 
-## 💡 Startup Projects & Ideas  
+## 💡 Projects I’ve Built  
 
-Here are some of the projects I’ve been building or conceptualizing:  
-
-- **Clipcoin 🎥** – A platform where users **get paid to consume content** (like scrolling reels).  
-- **CareerFix 💼** – Helping unemployed graduates in India with **AI-driven job matching, resume optimization, skill-building & scam-free job listings**.  
-- **Chill Switch 🌱** – An app that filters social media into **positive, uplifting content**, reducing burnout and doomscrolling.  
+- **Galaxy Tutorial 🌌** – A project where I share and explain **React Native, Node.js, and full-stack concepts** in a simple, structured way for learners.  
+- **Random Video Chat App 🎥** – A full-stack app built with **WebRTC + Socket.IO**, featuring **gender-prioritized matching, emoji reactions, proper exit/next handling, and React Native integration**.  
 - **Remote Access WebApp 🔑** – A **no-install, code-based remote access tool** for easy web-based connections.  
-- **Random Video Chat App 🎥** – Built with **WebRTC + Socket.IO**, includes gender-prioritized matching, emoji reactions, and React Native integration.  
-- **Solar Tracking System ☀️** – A **software-based IoT project** with React Native frontend + Node.js backend to track solar panels efficiently.  
+- **Solar Tracking System ☀️** – A **software-based IoT project** with React Native frontend + Node.js backend to track and optimize solar panels.  
+- **Chat App 💬** – Real-time **end-to-end encrypted chat app** using **MongoDB, Socket.IO, JWT authentication, and AES encryption**, with React Native frontend.  
+- **Energy Dashboard ⚡** – A **React Native app** with **graphs, insights, filtering, and live energy usage data**, built using `react-native-chart-kit` and `moment`.  
 
 Each project reflects my goal: **use tech to solve real human problems**.  
 
