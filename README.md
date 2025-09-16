@@ -75,9 +75,10 @@ Each project reflects my goal: **use tech to solve real human problems**.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gopinath-08&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gopinath-08&theme=tokyonight" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Gopinath-08&theme=tokyonight" alt="streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopinath-08&layout=compact&theme=tokyonight" alt="langs" />
 </p>
+
 
 ---
 
